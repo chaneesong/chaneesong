@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=gigo96&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&hide_border=true&bg_color=0d1117&show_icons=true" alt="adityyaa-10's GitHub stats" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=gigo96&stroke=ffffff&background=0d1117&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=gigo96&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&hide_border=true&bg_color=0d1117&show_icons=true&border_radius=0" alt="adityyaa-10's GitHub stats" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=gigo96&stroke=ffffff&background=0d1117&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=0" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigo96&langs_count=6&layout=compact&theme=dark)](https://github.com/gigo96/gigo96)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigo96&langs_count=6&layout=compact&title_color=ef4444&bg_color=0d1117&text_color=ffffff&hide_border=true&border_radius=0" />
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigo96&langs_count=6&layout=compact&theme=dark)](https://github.com/gigo96/gigo96) -->
 
 </div>
