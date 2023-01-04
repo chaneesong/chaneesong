@@ -16,7 +16,6 @@
   <img width="900px" src="https://github-readme-activity-graph.cyclic.app/graph?username=gigo96&theme=xcode">
 </div>
 
-
 <div align="center">
   <p>
     <h3>지식 저장소</h3>
