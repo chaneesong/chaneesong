@@ -9,12 +9,12 @@
 
 <div align="center">
   <div><img width="80px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1603679366/noticon/dcvetqndre7gda3ttijy.gif" /></div>
-  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaneesong&langs_count=4&layout=compact&title_color=ef4444&bg_color=0d1117&text_color=ffffff&hide_border=true&border_radius=0" alt="chaneesong's GitHub most used Languages"/>
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaneesong&langs_count=4&layout=compact&title_color=ef4444&bg_color=0d1117&text_color=ffffff&hide_border=true" alt="chaneesong's GitHub most used Languages"/>
   <div>
-  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=chaneesong&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&hide_border=true&bg_color=0d1117&show_icons=true&border_radius=0" alt="chaneesong's GitHub stats" />
-  <img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=chaneesong&stroke=ffffff&background=0d1117&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=0" alt="chaneesong's GitHub streek"/>
+  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=chaneesong&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&hide_border=true&bg_color=0d1117&show_icons=true" alt="chaneesong's GitHub stats" />
+  <img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=chaneesong&stroke=ffffff&background=0d1117&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="chaneesong's GitHub streek"/>
     </div>
-  <img width="900px" src="https://github-readme-activity-graph.cyclic.app/graph?username=chaneesong&theme=xcode">
+  <img width="800px" src="https://github-readme-activity-graph.cyclic.app/graph?username=chaneesong&theme=xcode">
 </div>
 
 <div align="center">
