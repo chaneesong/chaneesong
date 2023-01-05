@@ -14,7 +14,7 @@
   <img width="350px" src="https://github-readme-stats.vercel.app/api?username=chaneesong&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&hide_border=true&bg_color=0d1117&show_icons=true" alt="chaneesong's GitHub stats" />
   <img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=chaneesong&stroke=ffffff&background=0d1117&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="chaneesong's GitHub streek"/>
     </div>
-  <img width="800px" src="https://github-readme-activity-graph.cyclic.app/graph?username=chaneesong&theme=xcode">
+  <img width="800px" src="https://github-readme-activity-graph.cyclic.app/graph?username=chaneesong&bg_color=0d1117&point=ef4444&line=ffffff&title_color=ef4444&color=ffffff&hide_border=true">
 </div>
 
 <div align="center">
